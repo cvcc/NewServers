@@ -1,0 +1,22 @@
+{
+  "name": "newservs",
+  "version": "1.0.0",
+  "description": "new servers Info getter",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvcc/newservers.git"
+  },
+  "author": "Mghanen Soufiane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvcc/newservers/issues"
+  },
+  "homepage": "https://github.com/cvcc/newservers#readme",
+  "dependencies": {
+    "jquerygo": "0.0.16"
+  }
+}
